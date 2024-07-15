@@ -4,8 +4,6 @@
 <h3 align="center">...an aspiring data analyst!👩‍💻</h3>
 <img align="right" alt="code" width="400" src="https://www.shecodes.io/assets/stickers/we%20can%20code%20it-6845671e9a08acc18335e6dd43cf16a4f6cfda13d0fef3d0cc5528c2214308ff.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enlt1124" alt="enlt1124" /></a> </p>
-
 - ✏️ I'm learning **Data Analytics at Turing College**
 
 - 💡 Currently working on: **an analysis on Spotify's top 200 songs using Python (and pandas 🐼)**
@@ -29,4 +27,3 @@
 <p>Credits</p>
 <p>Banner from: https://levelup.gitconnected.com/building-terminal-uis-in-python-in-30-seconds-8cad95a8bdccc</p>
 <p>Image from: https://www.shecodes.io/goodies</p>
-<p>Template from: https://github.com/rishavchanda</p>
