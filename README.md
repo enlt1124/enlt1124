@@ -10,6 +10,8 @@
 </p>
 
 - ✏️ I'm learning **Data Analytics at Turing College**
+  
+  (check out some of my works: https://github.com/enlt1124/My_Works)
 
 - 💡 Currently working on: **an analysis on Spotify's top 200 songs using Python (and pandas 🐼)**
 
