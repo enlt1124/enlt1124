@@ -13,7 +13,7 @@
   
   (check out some of my works: https://github.com/enlt1124/My_Works)
 
-- 💡 Currently working on: **an analysis on Spotify's top 200 songs using Python (and pandas 🐼)**
+- 💡 Currently working on: **an analysis on Spotify's top 50 songs from 200 using Python (and pandas 🐼)**
 
 - 🎵 Ask me anything about **the kpop music industry (it's my weird obsession)**
 
